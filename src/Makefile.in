@@ -18,6 +18,7 @@ SUBDIRS=util include lib \
 	plugins/authdata/greet_server \
 	plugins/authdata/greet_client \
 	plugins/kdb/db2 \
+	plugins/kdb/hdb \
 	@ldap_plugin_dir@ \
 	plugins/kdb/test \
 	plugins/preauth/otp \
